@@ -211,7 +211,7 @@ const BranchLink = styled.button`
       <Button>Search</Button>
       <Div>
               
-          <div class="dropdown">
+          <div class="all-branches-dropdown">
             <button class="dropbtn">{Branch.toUpperCase()}</button>
             <div class="dropdown-content">
                 <BranchDiv>
