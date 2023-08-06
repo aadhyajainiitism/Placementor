@@ -1,4 +1,5 @@
-/* Style The Dropdown Button */
+//Style The Dropdown Button which show list of various branches.
+
 .dropbtn {
     background-color: white;
     color: rgba(138, 94, 191, 1);
@@ -27,7 +28,6 @@
     padding-bottom: 1.5rem;
     height: 31rem;
     overflow-y: scroll;
-    
   }
   .dropdown-content::-webkit-scrollbar{
     width: 6px;
@@ -58,7 +58,7 @@
     display: block;  
   }
   
-  /* Change the background color of the dropdown button when the dropdown content is shown */
+  // Change the background color of the dropdown button when the dropdown content is shown.
   .dropdown:hover .dropbtn {
     background-color: rgba(238, 109, 152, 1) ;
     color: white;
