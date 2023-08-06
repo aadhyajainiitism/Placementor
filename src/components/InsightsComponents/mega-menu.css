@@ -1,5 +1,6 @@
 //Style The Dropdown Button which show list of various branches.
 
+//hovering on this button will show different branches in the form of dropdown.
 .dropbtn {
     background-color: white;
     color: rgba(138, 94, 191, 1);
@@ -45,7 +46,7 @@
     border-radius: 10px;
   }
   
-  /* Links inside the dropdown */
+  // Links inside the dropdown.
   .dropdown-content a {
     padding: 12px 16px;
     text-decoration: none;
@@ -53,7 +54,7 @@
   }
   
   
-  /* Show the dropdown menu on hover */
+  // Show the dropdown menu on hover.
   .dropdown:hover .dropdown-content {
     display: block;  
   }
